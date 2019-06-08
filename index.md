@@ -1,4 +1,4 @@
-# Neuroscout
+![GitHub Logo](Neuroscout_Simple_Wide.png)
 
 Neuroscout is a cloud-based platform for flexible re-analysis of (naturalistic) fMRI datasets.
 
