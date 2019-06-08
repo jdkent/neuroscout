@@ -2,6 +2,6 @@
 
 Neuroscout is a cloud-based platform for flexible re-analysis of (naturalistic) fMRI datasets.
 
-__The public alpha is available to try now___
+__The public alpha is available to try now__
 
 [https://alpha.neuroscout.org](https://alpha.neuroscout.org)
