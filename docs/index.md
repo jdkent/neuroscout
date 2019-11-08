@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Neuroscout
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+Coming soon, there will be documentation on how to user Neuroscout here...
 
-## Commands
+## Overview
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* First section
 
-## Project layout
+## Example command
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    neuroscout run /out 5xhbt

@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: Neuroscout
+nav:
+    - Home: index.md
+    - User Guide: guide.md
+theme: readthedocs
